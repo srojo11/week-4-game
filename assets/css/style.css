@@ -1,0 +1,131 @@
+body{
+background: url(https://s-media-cache-ak0.pinimg.com/originals/cf/b6/07/cfb60767334f999d44819d52b68e1d0a.jpg);
+background-size: 150%;
+background-repeat: no-repeat;
+font-family: 'Raleway', sans-serif;
+letter-spacing: 2px;
+}
+
+#start{
+background: #000000;
+color:#ffffff;
+padding: 10px;
+text-align: center;
+height: 15%;
+width: 15%;
+margin: 0 auto;
+margin-top: 20px;
+font-size: 1.2em;
+
+
+}
+
+#crystal-box{
+overflow: auto;
+margin: 0 auto;
+background: #ffffff;
+padding: 10px;
+margin-top: 5px;
+
+}
+
+#container{
+margin: 75px auto;
+width: 100%;
+background: #ffffff;
+opacity: 0.9;
+
+
+
+}
+
+#random-box {
+background: #ffffff;
+padding: 10px;
+margin-top: 5px;
+font-size: 1.2em;
+text-align: center;
+
+
+
+}
+
+#counter{
+background: #ffffff;
+padding: 10px;
+margin-top: 5px;
+margin-bottom: 50px;
+text-align: center;
+font-size: 1.2em;
+overflow: auto;
+
+
+}
+
+
+
+#crystal-1 {
+padding: 10px;
+margin-top: 50px;
+margin-left: 100px;
+background: #ffffff;
+display: inline;
+
+
+}
+
+#crystal-2 {
+padding: 10px;
+margin-top: 50px;
+background: #ffffff;
+display: inline;
+
+
+}
+
+#crystal-3 {
+padding: 10px;
+margin-top: 50px;
+background: #ffffff;
+display: inline;
+
+
+
+}
+
+#crystal-4 {
+padding: 10px;
+margin-top: 50px;
+background: #ffffff;
+display: inline;
+
+
+
+}
+
+#total-score {
+padding: 10px;
+background: #ffffff;
+clear:left;
+margin-top: 50px;
+text-align: center;
+font-size: 1.2em;
+
+
+}
+
+
+#user-score {
+padding: 10px;
+margin-top: 5px;
+margin-bottom: 20px;
+background: #ffffff;
+clear:left;
+text-align: center;
+font-size: 1.2em;
+
+
+
+
+
+}
